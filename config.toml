@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://mpere.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "Matias Perè - Portfolio Website"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
+  name = "Matias Perè"
   description = "Your description"
 
   # Link custom assets relative to /static

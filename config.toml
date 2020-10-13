@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://mpere.netlify.app/"
+baseURL = "https://mpere.netlify.app"
 languageCode = "en-us"
 title = "Matias Perè - Portfolio Website"
 theme = "forty"
@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Matias Pere - Portfolio Website"
-    subtitle = "By HTML5 Up"
+    subtitle = "Matias Pere"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -48,15 +48,15 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "Name Section"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
+      name = "Name Section 2"
       url = "blogs/ipsum"
 
     [[params.navigation.links]]
-      name = "Elements"
+      name = "Name Section 3"
       url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
